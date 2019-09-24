@@ -7,8 +7,7 @@ package com.hp.web.controller;
  * @create: 2019/09/24 14:37
  **/
 public class XiaJinxin {
-    public static String main(String[] args) {
-
-        return "夏金鑫";
+    public static void main(String[] args) {
+        System.out.println(1231313);
     }
 }
